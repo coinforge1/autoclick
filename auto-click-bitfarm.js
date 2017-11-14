@@ -1,11 +1,15 @@
 // ==UserScript==
-// @name         Coin Forge
-// @namespace    http://bitcofarm.com/ads
-// @version      0.1
-// @description  autoclick-bitcofarm
+// @name         autoclick
+// @namespace    https://github.com/coinforge1/autoclick
+// @version      1
+// @description  Realiza o precesso de clicks automáticamente
 // @author       CoinForge1
-// @downloadURL  https://github.com/coinforge1/autoclick/edit/master/auto-click-bitfarm.js
 // @match        http://bitcofarm.com/ads
+// @match        http://bitcomine.net/ads
+// @match        http://ethero.net/ads
+// @downloadURL  https://raw.githubusercontent.com/coinforge1/autoclick/master/auto-click-bitfarm.js
+// @supportURL   https://github.com/coinforge1/autoclick/issues
+// @connect      *
 // @grant        none
 // ==/UserScript==
 
