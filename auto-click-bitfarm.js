@@ -7,6 +7,7 @@
 // @match        http://bitcofarm.com/ads
 // @match        http://bitcomine.net/ads
 // @match        http://ethero.net/ads
+// @updateURL    https://github.com/JeftDemon/CloseTab/raw/master/CloseTab.meta.js
 // @downloadURL  https://raw.githubusercontent.com/coinforge1/autoclick/master/auto-click-bitfarm.js
 // @supportURL   https://github.com/coinforge1/autoclick/issues
 // @connect      *
