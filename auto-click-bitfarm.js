@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         Coin Forge
+// @namespace    http://bitcofarm.com/ads
+// @version      0.1
+// @description  autoclick-bitcofarm
+// @author       CoinForge1
+// @downloadURL  https://github.com/coinforge1/autoclick/edit/master/auto-click-bitfarm.js
+// @match        http://bitcofarm.com/ads
+// @grant        none
+// ==/UserScript==
+
+
 (function() {
     'use strict';
 
